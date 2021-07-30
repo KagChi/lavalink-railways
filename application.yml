@@ -1,5 +1,5 @@
 server:
-  port: 2333
+  port: 443
   address: 0.0.0.0
 spring:
   main:
