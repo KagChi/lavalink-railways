@@ -1,5 +1,5 @@
 server:
-  port: <%= ENV["PORT"] %>
+  port: ${PORT}
   address: 0.0.0.0
 spring:
   main:
