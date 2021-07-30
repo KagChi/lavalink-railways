@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 31013
   address: 0.0.0.0
 spring:
   main:
