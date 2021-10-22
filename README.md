@@ -1,5 +1,15 @@
 ## lavalink-railways
 
+### Warning
+USE AT YOUR OWN RISK, I DONT TAKE ANY RESPONSBILITY.
+
+### About me
+Personally i dont use railway for lavalink. I use replit instead railway. Why? Because railway sometime being weird, 404 error, randomly disconnect, etc.
+
+### Copyrighted stuff
+Lavalink cant play copyrighted stuff in railway region and will not!
+
+
 ## Connecting
 - Use port 443
 - Use `secure` options
