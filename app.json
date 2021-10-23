@@ -3,7 +3,6 @@
     "description": "Standalone audio sending node based on Lavaplayer.",
     "logo": "https://cdn.discordapp.com/attachments/785715969317142540/901333471555907645/9k.png",
     "repository": "https://github.com/KagChi/lavalink-railways",
-    "stack": "container",
     "formation": {
         "worker": {
             "quantity": 1,
