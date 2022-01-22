@@ -15,4 +15,5 @@ Lavalink cant play copyrighted stuff in railway region (If owner of the vids blo
 - Use `secure` options
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKagChi%2Flavalink-railways)
-[![Deploy ON Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/KagChi/lavalink-railways)
+<br>
+[![Deploy ON Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KagChi/lavalink-railways)
